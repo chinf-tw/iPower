@@ -1,0 +1,1 @@
+SELECT Ability.ability_name,Ability_record.[value] FROM Ability, Ability_record WHERE   Ability.ability_id = Ability_record.ability_id;
